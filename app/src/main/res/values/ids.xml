@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView" type="id" />
+    <item name="eight" type="id" />
+    <item name="three" type="id" />
+    <item name="dot" type="id" />
+    <item name="divide" type="id" />
+    <item name="five" type="id" />
+    <item name="two" type="id" />
+    <item name="six" type="id" />
+    <item name="minus" type="id" />
+    <item name="one" type="id" />
+    <item name="getResult" type="id" />
+    <item name="seven" type="id" />
+    <item name="plus" type="id" />
+    <item name="zero" type="id" />
+    <item name="four" type="id" />
+    <item name="nine" type="id" />
+    <item name="textView2" type="id" />
+</resources>
